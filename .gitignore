@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+`# Ignorar tudo`
+
+`*`
+
+`# Exceto a pasta src`
+
+`!src/`
+
+`!src/**`
+
+`# Arquivos essenciais do Maven`
+
+`!pom.xml`
+
+`!.gitignore`
